@@ -1,0 +1,173 @@
+{
+	"jobRunId": "application_1736373821930_0042",
+	"results": [
+		{
+			"database": "tpcds_10tbrs",
+			"table": "call_center",
+			"row_count": 54,
+			"max_row_size_bytes": 305,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "catalog_page",
+			"row_count": 40000,
+			"max_row_size_bytes": 139,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "catalog_returns",
+			"row_count": 1440033112,
+			"max_row_size_bytes": 166,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "catalog_sales",
+			"row_count": 14399964710,
+			"max_row_size_bytes": 226,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "customer",
+			"row_count": 65000000,
+			"max_row_size_bytes": 132,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "customer_address",
+			"row_count": 32500000,
+			"max_row_size_bytes": 110,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "customer_demographics",
+			"row_count": 1920800,
+			"max_row_size_bytes": 42,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "date_dim",
+			"row_count": 73049,
+			"max_row_size_bytes": 141,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "household_demographics",
+			"row_count": 7200,
+			"max_row_size_bytes": 21,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "income_band",
+			"row_count": 20,
+			"max_row_size_bytes": 16,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "inventory",
+			"row_count": 1311525000,
+			"max_row_size_bytes": 16,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "item",
+			"row_count": 402000,
+			"max_row_size_bytes": 281,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "promotion",
+			"row_count": 2000,
+			"max_row_size_bytes": 124,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "reason",
+			"row_count": 70,
+			"max_row_size_bytes": 38,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "ship_mode",
+			"row_count": 20,
+			"max_row_size_bytes": 56,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "store",
+			"row_count": 1500,
+			"max_row_size_bytes": 263,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "store_returns",
+			"row_count": 2879970104,
+			"max_row_size_bytes": 134,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "store_sales",
+			"row_count": 28799983563,
+			"max_row_size_bytes": 164,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "time_dim",
+			"row_count": 86400,
+			"max_row_size_bytes": 59,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "warehouse",
+			"row_count": 25,
+			"max_row_size_bytes": 117,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "web_page",
+			"row_count": 4002,
+			"max_row_size_bytes": 96,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "web_returns",
+			"row_count": 720020485,
+			"max_row_size_bytes": 162,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "web_sales",
+			"row_count": 7199963324,
+			"max_row_size_bytes": 226,
+			"status": "OK"
+		},
+		{
+			"database": "tpcds_10tbrs",
+			"table": "web_site",
+			"row_count": 78,
+			"max_row_size_bytes": 292,
+			"status": "OK"
+		}
+	]
+}
