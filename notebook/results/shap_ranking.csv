@@ -1,0 +1,12 @@
+Feature,Mean_Abs_SHAP
+Real CTE-subquery count,0.8269137058704595
+Subquery count,0.3509249976926159
+Main-chain nesting depth,0.16740524149567576
+Table-size coefficient of variation,0.1488928931745796
+Table count,0.1004806748375499
+Repeated-bytes ratio,0.07455293887582813
+GROUP BY count,0.034044104870791576
+Join count,0.011814853828061953
+Join-to-table ratio,0.010667053064003115
+DISTINCT count,0.007220004718457111
+Window-function count,0.0013002770136868519
